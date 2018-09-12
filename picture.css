@@ -3,113 +3,211 @@
 
 .square1 {
     height: 300px;
-   width: 300px;
-   background: #AAA;
-   /* margin: 100px auto; */
-   /* border-radius: 100%; */
-   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
-   transition: all 100ms linear;
+    width: 300px;
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
 
-   /* margin-block-end: 5px; */
-    display: inline-block;
-
-    position: absolute;
-    top: 0px;
-    left: 0px;
+  /* margin-block-end: 5px; */
+   display: inline-block;
 }
 .square2 {
-    height: 500px;
-   width: 200px;
-   background: #AAA;
-   /* margin: 100px auto; */
-   /* border-radius: 100%; */
-   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
-   transition: all 100ms linear;
+    height: 150px;
+    width: 200px;
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
 
-   margin-block-end: 5px;
-    display: inline-block;
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 408px;
+   top: 158px;
 }
 
 .square3 {
-    height: 100px;
-   width: 200px;
-   background: #AAA;
-   /* margin: 100px auto; */
-   /* border-radius: 100%; */
-   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
-   transition: all 100ms linear;
+    height: 150px;
+    width: 300px;
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
 
-   margin-block-end: 5px;
-    display: inline-block;
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 308px;
 }
 
 .square4 {
-    height: 600px;
-   width: 400px;
-   background: #AAA;
-   /* margin: 100px auto; */
-   /* border-radius: 100%; */
-   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
-   transition: all 100ms linear;
+    height: 300px;
+    width: 100px;
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
 
-   margin-block-end: 5px;
-    display: inline-block;
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 308px;
 }
 
 .square5 {
-    height: 200px;
-   width: 500px;
-   background: #AAA;
-   /* margin: 100px auto; */
-   /* border-radius: 100%; */
-   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
-   transition: all 100ms linear;
+    height: 300px;
+    width: 100px;
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
 
-   margin-block-end: 5px;
-    display: inline-block;
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 608px;
 }
 
 .square6 {
-    height: 200px;
-   width: 350px;
-   background: #AAA;
-   /* margin: 100px auto; */
-   /* border-radius: 100%; */
-   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
-   transition: all 100ms linear;
+    height: 100px;
+    width: 200px;
+    
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
 
-   margin-block-end: 5px;
-    display: inline-block;
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 708;
 }
 
 .square7 {
     height: 150px;
-   width: 450px;
-   background: #AAA;
-   /* margin: 100px auto; */
-   /* border-radius: 100%; */
-   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
-   transition: all 100ms linear;
+    width: 200px;
+    
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
 
-   margin-block-end: 5px;
-    display: inline-block;
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 708px;
 }
-.square8 {
-    height: 300px;
-   width: 300px;
-   background: #AAA;
-   /* margin: 100px auto; */
-   /* border-radius: 100%; */
-   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
-   transition: all 100ms linear;
 
-   margin-block-end: 5px;
-    display: inline-block;
+.square8 {
+    height: 75px;
+    width: 200px;
+    position: absolute;
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
+
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 708px;
+   top: 161px;
 }
 
 .square9 {
+    height: 75px;
+    width: 200px;
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
+
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 708px;
+   top: 236px;
+}
+
+.square10 {
+    height: 300px;
+    width: 300px;
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
+
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 908px;
+}
+
+.square11 {
+    height: 250px;
+    width: 250px;
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
+
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 928px;
+   top: 30px;
+   border-radius: 100%;
+
+}
+
+.square12 {
+    height: 150px;
+    width: 150px;
+    background: #AAA;
+    /* margin: 100px auto; */
+    /* border-radius: 100%; */
+    box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+    transition: all 100ms linear;
+
+  /* margin-block-end: 5px; */
+   display: inline-block;
+   position: absolute;
+   left: 978px;
+   top: 80px;
+   border-radius: 100%;
+}
+
+.square13 {
     height: 300px;
    width: 600px;
+   background: #AAA;
+   /* margin: 100px auto; */
+   /* border-radius: 100%; */
+   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+   transition: all 100ms linear;
+
+   margin-block-end: 5px;
+    display: inline-block;
+    position: absolute;
+    top: 300px;
+    left: 8px;
+}
+
+.square14 {
+    height: 150px;
+   width: 300px;
    background: #AAA;
    /* margin: 100px auto; */
    /* border-radius: 100%; */
@@ -120,26 +218,10 @@
     display: inline-block;
     position: absolute;
     top: 600px;
-    left: 0px;
+    left: 8px;
 }
 
-.square10 {
-    height: 150px;
-   width: 300px;
-   background: #AAA;
-   /* margin: 100px auto; */
-   /* border-radius: 100%; */
-   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
-   transition: all 100ms linear;
-
-   margin-block-end: 5px;
-    display: inline-block;
-    position: absolute;
-    top: 900px;
-    left: 0px;
-}
-
-.square11 {
+.square15 {
     height: 150px;
    width: 600px;
    background: #AAA;
@@ -151,11 +233,11 @@
    margin-block-end: 5px;
     display: inline-block;
     position: absolute;
-    top: 1050px;
-    left: 0px;
+    top: 750px;
+    left: 8px;
 }
 
-.square12 {
+.square16 {
     height: 150px;
    width: 300px;
    background: #AAA;
@@ -167,11 +249,11 @@
    margin-block-end: 5px;
     display: inline-block;
     position: absolute;
-    top: 900px;
-    left: 300px;
+    top: 600px;
+    left: 308px;
 }
 
-.square13 {
+.square17 {
     height: 600px;
    width: 300px;
    background: #AAA;
@@ -183,10 +265,10 @@
    margin-block-end: 5px;
     display: inline-block;
     position: absolute;
-    top: 600px;
-    left: 600px;
+    top: 300px;
+    left: 608px;
 }
-.square14 {
+.square18 {
     height: 500px;
    width: 300px;
    background: #AAA;
@@ -198,11 +280,11 @@
    margin-block-end: 5px;
     display: inline-block;
     position: absolute;
-    top: 600px;
-    left: 900px;
+    top: 300px;
+    left: 908px;
 }
 
-.square15 {
+.square19 {
     height: 500px;
    width: 150px;
    background: #AAA;
@@ -214,13 +296,13 @@
    margin-block-end: 5px;
     display: inline-block;
     position: absolute;
-    top: 600px;
-    left: 1200px;
+    top: 300px;
+    left: 1208px;
 }
 
-.square16 {
+.square20 {
     height: 100px;
-   width: 450px;
+   width: 300px;
    background: #AAA;
    /* margin: 100px auto; */
    /* border-radius: 100%; */
@@ -230,71 +312,6 @@
    margin-block-end: 5px;
     display: inline-block;
     position: absolute;
-    top: 1100px;
-    left: 900px;
+    top: 800px;
+    left: 908px;
 }
-
-
-.square1:hover {
-    background-color: #fba;
- }
-
- .square2:hover {
-    background-color: black;
- }
-
- .square3:hover {
-    background-color: rgb(235, 110, 137);
- }
-
- .square4:hover {
-    background-color: hotpink;
- }
-
- .square5:hover {
-    background-color: rgb(187, 226, 13);
- }
-
- .square6:hover {
-    background-color: rgb(0, 217, 255);
- }
-
- .square7:hover {
-    background-color: rgb(255, 136, 0);
- }
-
- .square8:hover {
-    background-color: rgb(255, 0, 64);
- }
-
- .square9:hover {
-    background-color: rgb(0, 255, 76);
- }
-
- .square10:hover {
-    background-color: purple;
- }
-
- .square11:hover {
-    background-color: rgb(3, 75, 104);
- }
-
- .square12:hover {
-    background-color: green;
- }
-
- .square13:hover {
-    background-color: rgb(255, 0, 21);
- }
-
- .square14:hover {
-    background-color: rgb(133, 135, 236);
- }
-
- .square15:hover {
-    background-color: rgb(174, 0, 255);
- }
-
- .square16:hover {
-    background-color: rgb(116, 197, 129);
- }
