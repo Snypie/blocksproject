@@ -233,3 +233,68 @@
     top: 1100px;
     left: 900px;
 }
+
+
+.square1:hover {
+    background-color: #fba;
+ }
+
+ .square2:hover {
+    background-color: black;
+ }
+
+ .square3:hover {
+    background-color: rgb(235, 110, 137);
+ }
+
+ .square4:hover {
+    background-color: hotpink;
+ }
+
+ .square5:hover {
+    background-color: rgb(187, 226, 13);
+ }
+
+ .square6:hover {
+    background-color: rgb(0, 217, 255);
+ }
+
+ .square7:hover {
+    background-color: rgb(255, 136, 0);
+ }
+
+ .square8:hover {
+    background-color: rgb(255, 0, 64);
+ }
+
+ .square9:hover {
+    background-color: rgb(0, 255, 76);
+ }
+
+ .square10:hover {
+    background-color: purple;
+ }
+
+ .square11:hover {
+    background-color: rgb(3, 75, 104);
+ }
+
+ .square12:hover {
+    background-color: green;
+ }
+
+ .square13:hover {
+    background-color: rgb(255, 0, 21);
+ }
+
+ .square14:hover {
+    background-color: rgb(133, 135, 236);
+ }
+
+ .square15:hover {
+    background-color: rgb(174, 0, 255);
+ }
+
+ .square16:hover {
+    background-color: rgb(116, 197, 129);
+ }
