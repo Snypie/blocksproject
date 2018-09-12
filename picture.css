@@ -1,0 +1,92 @@
+#super {
+}
+
+.square1 {
+    height: 300px;
+   width: 300px;
+   background: #AAA;
+   /* margin: 100px auto; */
+   /* border-radius: 100%; */
+   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+   transition: all 100ms linear;
+
+   /* margin-block-end: 5px; */
+    display: inline-block;
+}
+.square2 {
+    height: 500px;
+   width: 200px;
+   background: #AAA;
+   /* margin: 100px auto; */
+   /* border-radius: 100%; */
+   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+   transition: all 100ms linear;
+
+   margin-block-end: 5px;
+    display: inline-block;
+}
+
+.square3 {
+    height: 100px;
+   width: 200px;
+   background: #AAA;
+   /* margin: 100px auto; */
+   /* border-radius: 100%; */
+   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+   transition: all 100ms linear;
+
+   margin-block-end: 5px;
+    display: inline-block;
+}
+
+.square4 {
+    height: 600px;
+   width: 400px;
+   background: #AAA;
+   /* margin: 100px auto; */
+   /* border-radius: 100%; */
+   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+   transition: all 100ms linear;
+
+   margin-block-end: 5px;
+    display: inline-block;
+}
+
+.square5 {
+    height: 200px;
+   width: 500px;
+   background: #AAA;
+   /* margin: 100px auto; */
+   /* border-radius: 100%; */
+   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+   transition: all 100ms linear;
+
+   margin-block-end: 5px;
+    display: inline-block;
+}
+
+.square6 {
+    height: 200px;
+   width: 350px;
+   background: #AAA;
+   /* margin: 100px auto; */
+   /* border-radius: 100%; */
+   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+   transition: all 100ms linear;
+
+   margin-block-end: 5px;
+    display: inline-block;
+}
+
+.square7 {
+    height: 150px;
+   width: 450px;
+   background: #AAA;
+   /* margin: 100px auto; */
+   /* border-radius: 100%; */
+   box-shadow: 30px 30px 100px 10px #222, -60px -60px 150px 0 #222 inset;
+   transition: all 100ms linear;
+
+   margin-block-end: 5px;
+    display: inline-block;
+}
